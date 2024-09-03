@@ -21,7 +21,7 @@ repository               : "dolszewskiMT/dolszewskiMT.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/headshot.JPG"
+  avatar           : "files/headshot.JPG"
   name             : "Ozzy"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
