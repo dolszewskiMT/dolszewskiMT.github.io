@@ -1,5 +1,5 @@
 ---
-title: "Every breath you don\’t take: Deepfake speech detection using breath"
+title: "Every breath you don\'t take: Deepfake speech detection using breath"
 collection: publications
 category: manuscripts
 permalink: /publication/breath
