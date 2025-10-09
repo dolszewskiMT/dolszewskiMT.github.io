@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Daniel Olszewski - Personal Website"
 title_separator          : "-"
 name                     : &name "Daniel Olszewski (Ozzy)"
-description              : &description "personal description"
+description              : &description "Graduate Research Assistant at the University of Florida"
 url                      : https://dolszewskiMT.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dolszewskiMT/dolszewskiMT.github.io"
@@ -21,10 +21,10 @@ repository               : "dolszewskiMT/dolszewskiMT.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/headshot.JPG"
-  name             : "Ozzy"
+  avatar           : "https://dolszewskiMT.github.io/images/headshot.JPG"
+  name             : "Daniel (Ozzy) Olszewski"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a PhD candidate at the University of Florida with research interests in computer security, systems, and reproducibility. My work explores practical solutions to complex systems problems through secure design and empirical analysis."
   location         : "Gainesville, FL"
   employer         : "University of Florida"
   uri              : # URL
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=V285u88AAAAJ&hl=en&oi=sra"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
 
   # Repositories and software development
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
