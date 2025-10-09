@@ -79,6 +79,8 @@ publication_category:
 
   manuscripts:
     title: 'Conference Papers'
+  conferences:
+    title: 'Journal Paper'
  
 
 # Site Settings
