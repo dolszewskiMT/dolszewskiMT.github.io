@@ -1,4 +1,4 @@
-e---
+---
 title: "Better Be Computer or I'm Dumb: A Large-Scale Evaluation of Humans as Audio Deepfake Detectors"
 collection: publications
 category: manuscripts
