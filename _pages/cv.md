@@ -165,4 +165,4 @@ Honors and Awards
 
 ---
 
-**Download full CV:** [PDF version](assets/files/Daniel_Olszewski_CV.pdf)
+**Download full CV:** [PDF version](files/Daniel_Olszewski_CV.pdf)
